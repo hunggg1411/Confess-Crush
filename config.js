@@ -8,10 +8,10 @@ const CONFIG = {
     btnYes: 'Yêu Hùng nhất <33',
     btnNo: 'ẹc ẹc :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình anh <3',
-    btnReply: 'send me <3',
-    reply: 'Yes, i do. I love you so much <33333333',
+    btnReply: 'send me===> <3',
+    reply: 'Em sẽ yêu anh cho tới khi trái đất ngừng quay, mặt trắng ngừng sáng, mặt trời vụt tắt <33333333',
     mess: 'I know 🥰. I Love you too 😘😘',
     messDesc: 'Now call me then say you love me okey.',
-    btnAccept: 'Okiiiii <3',
-    messLink: 'https://www.facebook.com/ham.hung.98499' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    btnAccept: 'Okiiiii chồng yêu <3',
+    messLink: 'https://youtu.be/IOe0tNoUGv8' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
